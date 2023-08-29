@@ -13,7 +13,7 @@ namespace CalcularImposto
         {
             double imposto = 0;
 
-            if (renda <= 1903.99)
+            if (renda < 1903.99)
             {
                 imposto = 0;
             }
