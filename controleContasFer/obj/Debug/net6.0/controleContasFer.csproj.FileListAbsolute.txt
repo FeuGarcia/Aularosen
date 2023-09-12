@@ -1,0 +1,14 @@
+C:\Users\fe\source\repos\ConceitosbasicosCSharp\controleContasFer\bin\Debug\net6.0\controleContasFer.exe
+C:\Users\fe\source\repos\ConceitosbasicosCSharp\controleContasFer\bin\Debug\net6.0\controleContasFer.deps.json
+C:\Users\fe\source\repos\ConceitosbasicosCSharp\controleContasFer\bin\Debug\net6.0\controleContasFer.runtimeconfig.json
+C:\Users\fe\source\repos\ConceitosbasicosCSharp\controleContasFer\bin\Debug\net6.0\controleContasFer.dll
+C:\Users\fe\source\repos\ConceitosbasicosCSharp\controleContasFer\bin\Debug\net6.0\controleContasFer.pdb
+C:\Users\fe\source\repos\ConceitosbasicosCSharp\controleContasFer\obj\Debug\net6.0\controleContasFer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fe\source\repos\ConceitosbasicosCSharp\controleContasFer\obj\Debug\net6.0\controleContasFer.AssemblyInfoInputs.cache
+C:\Users\fe\source\repos\ConceitosbasicosCSharp\controleContasFer\obj\Debug\net6.0\controleContasFer.AssemblyInfo.cs
+C:\Users\fe\source\repos\ConceitosbasicosCSharp\controleContasFer\obj\Debug\net6.0\controleContasFer.csproj.CoreCompileInputs.cache
+C:\Users\fe\source\repos\ConceitosbasicosCSharp\controleContasFer\obj\Debug\net6.0\controleContasFer.dll
+C:\Users\fe\source\repos\ConceitosbasicosCSharp\controleContasFer\obj\Debug\net6.0\refint\controleContasFer.dll
+C:\Users\fe\source\repos\ConceitosbasicosCSharp\controleContasFer\obj\Debug\net6.0\controleContasFer.pdb
+C:\Users\fe\source\repos\ConceitosbasicosCSharp\controleContasFer\obj\Debug\net6.0\controleContasFer.genruntimeconfig.cache
+C:\Users\fe\source\repos\ConceitosbasicosCSharp\controleContasFer\obj\Debug\net6.0\ref\controleContasFer.dll
